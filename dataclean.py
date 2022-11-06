@@ -4,6 +4,8 @@ import time
 import sys 
 import re
 import os
+
+
 # VARIABLES 
 _ENCODING = "cp437"
 
